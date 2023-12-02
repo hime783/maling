@@ -20,6 +20,6 @@
 
 # cd maling
 
-# python Ral-ig.py
+# python RAL-ig.py
 
 
